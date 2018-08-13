@@ -1,1 +1,1 @@
-- [https://medium.com/@shalithasuranga/why-we-built-neutralinojs-framework-part-i-1d6c667951d5](https://medium.com/@shalithasuranga/why-we-built-neutralinojs-framework-part-i-1d6c667951d5)
+- [Why we built Neutralinojs framework ? — Part I](https://medium.com/@shalithasuranga/why-we-built-neutralinojs-framework-part-i-1d6c667951d5)
