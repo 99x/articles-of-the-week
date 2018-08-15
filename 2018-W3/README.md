@@ -1,4 +1,4 @@
-- [Sentiment Analyzer in 10 Minutes] (https://medium.com/99xtechnology/sentiment-analyzer-in-5-minutes-141077709c02)
+- [Sentiment Analyzer in 10 Minutes](https://medium.com/99xtechnology/sentiment-analyzer-in-5-minutes-141077709c02)
 
 - [Why we built Neutralinojs framework ? — Part I](https://medium.com/@shalithasuranga/why-we-built-neutralinojs-framework-part-i-1d6c667951d5)
 
