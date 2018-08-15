@@ -1,2 +1,2 @@
-# articlesoftheweek
-Awesome articles weekly 😛
+# articles-of-the-week
+Awesome articles weekly 📖
