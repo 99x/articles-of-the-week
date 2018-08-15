@@ -6,4 +6,4 @@
 
 - [Building a CI/CD pipeline with CircleCI and Heroku — Part 01](https://medium.com/99xtechnology/building-a-ci-cd-pipeline-with-circleci-and-heroku-57bae2d0bac0)
 
-- [Building a CI/CD pipeline with CircleCI and Heroku — Part 01](https://medium.com/@shalithasuranga/understanding-thread-safe-methods-with-practical-singleton-example-42f062900761)
+- [Understanding thread safe methods with practical example of a Singleton class](https://medium.com/@shalithasuranga/understanding-thread-safe-methods-with-practical-singleton-example-42f062900761)
