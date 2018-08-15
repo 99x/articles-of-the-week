@@ -1,6 +1,6 @@
 - [Serverless Microservices Auth Problem](https://codeburst.io/serverless-microservices-auth-problem-dae81f2340b0)
 - [How to learn an existing code base](https://hackernoon.com/how-to-learn-an-existing-code-base-28b88d954bfd)
-- [Learning to set up tomcat server using maven](https://medium.com/@murtazasmart/setting-up-tomcat-server-using-maven-d13961b18562)
+- [Freedom from IDEs when using Apache Tomcat](https://medium.com/@murtazasmart/setting-up-tomcat-server-using-maven-d13961b18562)
 - [Learning to set up tomcat and maven for heroku deployment](https://medium.com/@murtazasmart/setting-up-tomcat-maven-for-heroku-e8784b6e6b70)
 - [Statistics - The Truth Finder in Data Science](https://www.linkedin.com/pulse/statistics-truth-finder-data-science-prasadi-apsara/)
 - Add articles here
