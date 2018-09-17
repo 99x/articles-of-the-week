@@ -4,3 +4,4 @@
 - [Learning to set up tomcat and maven for heroku deployment](https://medium.com/@murtazasmart/setting-up-tomcat-maven-for-heroku-e8784b6e6b70)
 - [Statistics - The Truth Finder in Data Science](https://www.linkedin.com/pulse/statistics-truth-finder-data-science-prasadi-apsara/)
 - [Drawing outline for any kind of HTML Canvas objects](https://medium.com/@shalithasuranga/drawing-outline-for-any-kind-of-html-canvas-objects-7ae198a47d7a)
+- [Monitoring and Alerting On-Premise IIS Hosted Application Availability with AWS Cloudwatch](https://medium.com/@rifhan.akram1/monitoring-and-alerting-on-premise-iis-hosted-application-availability-with-aws-cloudwatch-2b16aecaf0f4)
