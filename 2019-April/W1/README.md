@@ -1,3 +1,3 @@
 ## Articles of the week
 
-- [Add your links](#)
+-[The clumsy facet of Java Integer comparisons](https://thedevland.com/2018/04/10/java-integer-comparisons/)
