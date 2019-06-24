@@ -5,3 +5,5 @@
 - [Building Microservices with Spring Boot — Part 01](https://medium.com/spring-boot/building-microservices-with-spring-boot-part-01-bca4d6112236)
 - [Building Microservices with Spring Boot — Part 02](https://medium.com/spring-boot/building-microservice-with-spring-boot-part-02-c9fb8845c0d5)
 - [Building Microservices with Spring Boot — Part 03](https://medium.com/spring-boot/building-microservice-with-spring-boot-part-03-56b87eea5d23)
+- [Migrating Legacy Monoliths to Microservices](https://markfaction.wordpress.com/2019/02/16/migrating-legacy-monoliths-to-microservices/)
+- [Working Code vs Maintainable Code](https://medium.com/@priyan.access/working-code-vs-maintainable-code-b03040c36b36)
