@@ -1,3 +1,3 @@
 - [API Documentation For SpringBoot Using Swagger](https://www.99xtechnology.com/blog/techinsight/api-documentation-for-springboot-using-swagger/)
 - [Check Internet Connection In Ionic Without Using Any Libraries/Modules](https://medium.com/@athif.shaffy/check-internet-connection-in-ionic-41f67a46e7b2)
-- [Swagger2 API Documentation For Microservices.](https://medium.com/spring-boot/building-microservice-with-spring-boot-part-04-8ab75353b9ee)
+- [Swagger2 API Documentation For Microservices.](https://medium.com/spring-boot/building-microservice-with-spring-boot-part-04-8ab75353b9ee?source=friends_link&sk=958e1b85f6f2d85072b2f0693c984676)
