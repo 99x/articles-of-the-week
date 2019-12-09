@@ -4,5 +4,7 @@
 ](https://medium.com/@harrish/what-blockchain-really-is-3f22f5b01b85)
 - [Getting started with CodeceptJS!
 ](https://medium.com/@dharshinibaskaran/getting-started-with-codeceptjs-ed66d5f6c3d9)
+- [An Introduction to Cloud Services
+](https://medium.com/@rajitha1998/an-introduction-to-cloud-services-67de8c2a3247)
 - [What is JWT (Json web token)
 ](https://medium.com/@hasangalakdinu/what-is-jwt-json-web-token-2c43381df6c8)
