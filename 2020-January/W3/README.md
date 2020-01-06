@@ -1,0 +1,1 @@
+- [British and Sri Lankan Computer Crime law in safeguarding IT professionals](https://thedevland.com/2019/12/29/computer-crime-law-in-safeguarding-it-professionals/)
