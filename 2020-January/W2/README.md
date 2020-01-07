@@ -6,4 +6,4 @@
 
 - [Essential techniques of writing Xpath & CSS path for Automation scripts](https://medium.com/@qualityholics/essential-techniques-of-writing-xpath-css-path-for-automation-scripts-2d08f2e58db6)
 
-
+- [The beginner’s guide to Git & GitHub](https://medium.com/@mvthanoshan9/ubuntu-a-beginners-guide-to-git-github-44a2d2fda0b8)
