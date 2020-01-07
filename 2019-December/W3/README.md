@@ -3,7 +3,12 @@
 
 - [How to write better code?](https://blog.usejournal.com/how-to-write-better-code-710d73562d02)
 
-- [Get started .net core application unit testing with xUnit and moq](https://medium.com/@HansikaWanniarachchi/get-started-net-core-application-unit-testing-with-xunit-and-moq-83c7ee0d15f3)
+- [Archiving objects to S3 Glacier with .NET Core](https://medium.com/@warkiringoda/archiving-objects-to-s3-glacier-with-net-core-84a80da8f032)
+
+-	[Vector Representations of Text for Machine Learning](https://medium.com/@athif.shaffy/one-hot-encoding-of-text-b69124bef0a7)
+
+- [Who owning the contents is the deciding factor of the Future of the Web](https://medium.com/weirdism/who-owning-the-contents-is-the-deciding-factor-of-the-future-of-the-web-57b5dff845ac)
+
 
 
 
